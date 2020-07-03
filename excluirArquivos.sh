@@ -8,5 +8,5 @@ do
 	ssh root@"${ip}"
 	cd /opt/loguspdv/imagens && rm -rf logoemp.png || echo "Erro ao copiar"
 
-	sleep 5
+	sleep 3
 done
