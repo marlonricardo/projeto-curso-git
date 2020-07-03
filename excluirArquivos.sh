@@ -1,3 +1,7 @@
+#####################
+#Criado por Marlon  #
+#mroparaty@gmail.com#
+#####################
 #!/bin/bash
 for ip in 192.168.205.{31..46}
 do
